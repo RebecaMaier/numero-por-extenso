@@ -5,7 +5,7 @@ Projeto desenvolvido para a disciplina de **Paradigmas de Linguagem de Programa�
 ## 🎯 Objetivo
 Converter valores numéricos até `999.999.999,99` para sua forma por extenso no formato de moeda brasileira (reais e centavos).
 
-Exemplo:
+### 🧾 Exemplo
 Entrada: 123.456.789,99
 Saída: Cento e vinte e três milhões quatrocentos e cinquenta e seis mil setecentos e oitenta e nove reais e noventa e nove centavos
 
